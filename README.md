@@ -1,4 +1,4 @@
-# NFTKastle
+# Tenge NFTKastle
 
 Tenge NFTKastle is an NFT marketplace where users can mint their pictures as NFTs, list their NFTs for sale, and buy NFTs from other users. NFTKastle has other addition features which includes
 
